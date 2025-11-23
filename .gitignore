@@ -1,0 +1,22 @@
+# Obsidian Canvas LMS Integration
+
+# npm
+node_modules/
+package-lock.json
+
+# Build
+main.js
+*.js.map
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Development
+*.log
+.env
+.env.local

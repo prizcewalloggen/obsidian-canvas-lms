@@ -1,0 +1,10 @@
+{
+	"id": "canvas-lms-integration",
+	"name": "Canvas LMS Integration",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Integrate Canvas LMS with Obsidian - fetch assignments, grades, and course info",
+	"author": "Pearce O'Connor",
+	"authorUrl": "https://pearceoconnor.com",
+	"isDesktopOnly": false
+}

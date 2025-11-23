@@ -1,0 +1,42 @@
+/* Canvas LMS Integration Styles */
+
+.canvas-lms-modal {
+    padding: 20px;
+}
+
+.canvas-course-item {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.canvas-course-item:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.canvas-assignment-item {
+    padding: 8px;
+    margin: 5px 0;
+    border-left: 3px solid var(--interactive-accent);
+    background-color: var(--background-secondary);
+}
+
+.canvas-assignment-due {
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+
+.canvas-assignment-overdue {
+    color: var(--text-error);
+    font-weight: bold;
+}
+
+.canvas-grade-display {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: var(--interactive-accent);
+    text-align: center;
+    padding: 20px;
+}
